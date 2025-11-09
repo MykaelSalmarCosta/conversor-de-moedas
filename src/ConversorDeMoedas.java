@@ -11,8 +11,6 @@ public class ConversorDeMoedas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String[] moedas = {"ARS", "BOB", "BRL", "CLP", "COP", "USD"};
-
         System.out.println("""
                         Seja bem-vindo/a ao Conversor de Moedas =]
                         
